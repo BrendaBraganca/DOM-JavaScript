@@ -25,7 +25,7 @@ Para o desenvolvimento desse projeto foram usadas as tecnologias tecnologias:
   <tr>
     <td align="center">
       <a href="https://github.com/BrendaBraganca">
-        <img src="https://github.com/account" width="100px;" alt="Brenda Bragança"/><br>
+        <img src="https://avatars.githubusercontent.com/u/100091048?v=4" width="100px;" alt="Brenda Bragança"/><br>
         <sub>
           <b>Brenda Bragança</b>
         </sub>
