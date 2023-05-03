@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url(../img/fundo.jpg);
+    background: blue;
     background-position: center center;
     background-size: cover cover;
     padding: 0;
